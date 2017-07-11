@@ -1,11 +1,11 @@
 {
     "name": "angular-language-code",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "angular module for support ISO 639",
     "main": "./dist/ngLangcode.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Jerryzhao-z/angular_language_code.git"
+        "url": "https://github.com/Barylskyigb/angular-language-code"
     },
     "scripts": {
         "test": "karma start",
